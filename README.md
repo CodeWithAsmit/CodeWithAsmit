@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Asmit Mohan
 
-### 🚀 Dynamic Software Engineer | Full-Stack Developer | Legacy System Modernization Specialist
+### 🚀 Software Engineer | Full-Stack Developer | Mainframe Cloud Migration Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-mohan-726230215/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amclpatna001@gmail.com)
@@ -17,7 +17,8 @@
 
 ## 🎯 About Me
 
-Dynamic Software Engineer with **1.5+ years** of experience delivering client-focused solutions. Skilled in migrating legacy systems (FOCUS/FEX) to modern stacks, building microservices with Spring Boot, and developing interactive frontends using React.
+Dynamic Software Engineer with 2+ years of experience delivering client-focused solutions. Skilled in migrating legacy systems (FOCUS/FEX) to modern stacks, building microservices with Spring Boot, and developing interactive frontends using React.
+Expertise includes using Python for automated legacy program conversion and managing batch processing migration.
 
 - 💼 **Current Role:** Software Engineer at Amdocs
 - 📍 **Location:** Pune, India
